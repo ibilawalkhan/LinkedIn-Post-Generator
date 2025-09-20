@@ -3,3 +3,4 @@ langchain
 openai
 pandas
 langchain_groq
+python-dotenv
